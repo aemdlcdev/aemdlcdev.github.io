@@ -330,7 +330,7 @@ header {
 noscript {
     display: flex;
     align-items: center;
-    position:relative
+    position:fixed
 }
 
 #name,
